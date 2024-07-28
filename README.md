@@ -106,3 +106,12 @@ A Seemless communication with Doctor and Receptionist Using MERN Stack
 ## Addtional Features
 - The Patient can give the phone to retrieve the details so that if the patient came at night then he can visit next day with same token id
 - If the Token id is lost then the patient can provide the phone number to retrive the all details
+
+![Screenshot (241)](https://github.com/user-attachments/assets/60018646-4d67-42dc-b4a0-f55028c973b8)
+
+![Screenshot (239)](https://github.com/user-attachments/assets/589de515-3bc4-4b30-9458-9703c9365fe8)
+
+![Screenshot (240)](https://github.com/user-attachments/assets/1f991ec1-a5fa-482a-86cd-28bd10921e5f)
+
+
+
